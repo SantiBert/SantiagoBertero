@@ -72,3 +72,27 @@ footer{
     margin-top: 50px;
     margin-bottom: 60px;
 }
+
+.proyect{
+    margin-left: 15px;
+}
+
+.proyect-info{
+    margin-left: 15px;
+    color:black;
+}
+
+
+.quorum-icon{
+    width: 20%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.seidor-icon{
+    width: 20%;
+}
+
+.frist-col{
+    width: 15%;
+}
